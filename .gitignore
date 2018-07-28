@@ -5,3 +5,6 @@
 /ASPNETCoreWebApp.Mvc/obj/Debug/netcoreapp2.1
 /ASPNETCoreWebApp.Mvc/obj
 /.vs/ASPNETCoreWebApp/v15/Server/sqlite3
+/.vs/ASPNETCoreWebApp/v15
+/.vs/config
+/ASPNETCoreWebApp.Mvc/bin/Debug/netcoreapp2.1
